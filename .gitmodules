@@ -13,3 +13,6 @@
 [submodule "age-calculator-app"]
 	path = age-calculator-app
 	url = https://github.com/Anarenaa/age-calculator-app.git
+[submodule "single-page-developer-portfolio"]
+	path = single-page-developer-portfolio
+	url = https://github.com/Anarenaa/single-page-developer-portfolio.git
