@@ -1,0 +1,15 @@
+[submodule "advice-generator-app"]
+	path = advice-generator-app
+	url = https://github.com/Anarenaa/advice-generator-app.git
+[submodule "clipboard-landing-page"]
+	path = clipboard-landing-page
+	url = https://github.com/Anarenaa/clipboard-landing-page.git
+[submodule "profile-card-component"]
+	path = profile-card-component
+	url = https://github.com/Anarenaa/profile-card-component.git
+[submodule "news-homepage"]
+	path = news-homepage
+	url = https://github.com/Anarenaa/news-homepage.git
+[submodule "age-calculator-app"]
+	path = age-calculator-app
+	url = https://github.com/Anarenaa/age-calculator-app.git
